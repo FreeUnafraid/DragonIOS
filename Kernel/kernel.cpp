@@ -2,6 +2,7 @@
 #include <cstring>
 #include <string.h>
 #include <time.h>
+#include "headfile/cpp.cpp"
 using namespace std;
 char mem_name[8][8] = {};
 char mem_colo[8][8] = {};
